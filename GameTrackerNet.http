@@ -1,0 +1,6 @@
+@GameTrackerNet_HostAddress = http://localhost:5019
+
+GET {{GameTrackerNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
